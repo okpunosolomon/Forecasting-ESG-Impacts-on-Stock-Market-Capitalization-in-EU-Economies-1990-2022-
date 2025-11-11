@@ -1,4 +1,4 @@
-![Forecasting ESG Impacts Banner](visuals/A_flat-design_digital_graphic_features_the_title_.png)
+![Forecasting ESG Impacts Banner](visuals/banner.png)
 
 # Forecasting ESG Impacts on Stock Market Capitalization in EU Economies (1990–2022)
 ### A Data-Driven Look at How Sustainability Shapes Financial Growth
