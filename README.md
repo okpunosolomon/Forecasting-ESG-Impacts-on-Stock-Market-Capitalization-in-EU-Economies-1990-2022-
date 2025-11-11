@@ -38,14 +38,14 @@ Data covered all 27 EU economies, focusing on:
 
 ### 1️⃣ CO₂ Emissions per Capita (1990–2022)
 ![CO2 Emissions](visuals/CO2%20Emissions%20per%20Capita.png)
-Across Europe, carbon emissions have dropped sharply over the past three decades — proof that climate policies and renewable energy investments are working.  
+Across Europe, carbon emissions have dropped sharply over the past three decades, proof that climate policies and renewable energy investments are working.  
 Countries like **Sweden** and **Denmark** lead the transition, showing that cleaner energy supports long-term stability.
 
 ---
 
 ### 2️⃣ GDP per Capita Growth (1990–2022)
 ![GDP per Capita](visuals/GDP%20per%20Capita.png)
-Income levels have steadily increased across most EU countries. This steady rise links closely to ESG progress — economies investing in education, clean energy, and innovation have seen stronger, more consistent growth.
+Income levels have steadily increased across most EU countries. This steady rise links closely to ESG progress, economies investing in education, clean energy, and innovation have seen stronger, more consistent growth.
 
 ---
 
@@ -82,7 +82,7 @@ The strongest influences on stock market growth were:
 
 ## 🔮 Forecast Scenarios for 2027
 
-This project didn’t just analyze the past — it forecasted the **future trajectory of market capitalization** across EU countries under continued ESG progress.
+This project didn’t just analyze the past, it forecasted the **future trajectory of market capitalization** across EU countries under continued ESG progress.
 
 ### 🇩🇪 Germany – Sustainable Growth Momentum
 ![Forecast Germany 2027](visuals/Forecast%20Scenario%20for%20Germany%20(2027).png)  
@@ -106,7 +106,7 @@ Although outside the EU, Australia’s inclusion demonstrates how developing ESG
 - Countries that invested more in **sustainability and green innovation** saw **faster stock market recovery** after economic shocks.  
 - **Good governance and workforce participation** strengthen investor trust.  
 - **Machine learning models** helped forecast future market performance, showing where investments in ESG can create the biggest returns.  
-- In short, **green growth is good business** — not just good policy.
+- In short, **green growth is good business**, not just good policy.
 
 ---
 
@@ -118,7 +118,7 @@ Helps guide environmental and economic policies that attract investment and boos
 Reveals which markets are growing sustainably and which factors signal long-term profit potential.
 
 **For companies:**  
-Shows the business value of improving ESG performance — not just for compliance, but for market competitiveness.
+Shows the business value of improving ESG performance and not just for compliance, but for market competitiveness.
 
 ---
 
@@ -159,6 +159,3 @@ Forecasting-ESG-Impacts-on-Stock-Market-Capitalization-in-EU-Economies-1990-2022
 ⭐ *If you found this project insightful, please star the repository to support open data research in sustainable finance.*
 
 --- 
-
-Would you like me to add a **short repository tagline + optimized tags (keywords)** to boost visibility and discoverability on GitHub and LinkedIn next?
-```
