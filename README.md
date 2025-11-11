@@ -80,6 +80,28 @@ The strongest influences on stock market growth were:
 
 ---
 
+## 🔮 Forecast Scenarios for 2027
+
+This project didn’t just analyze the past — it forecasted the **future trajectory of market capitalization** across EU countries under continued ESG progress.
+
+### 🇩🇪 Germany – Sustainable Growth Momentum
+![Forecast Germany 2027](visuals/Forecast%20Scenario%20for%20Germany%20(2027).png)  
+Germany’s forecast shows steady market expansion powered by renewable energy investments and consistent emissions reduction, suggesting long-term financial resilience.
+
+---
+
+### 🇫🇷 France – Moderate Growth with Stable ESG Returns
+![Forecast France 2027](visuals/Forecast%20Scenario%20for%20France%20(2027).png)  
+France’s balanced ESG policy mix supports moderate, sustainable market growth, with strong returns from green energy innovation and labor participation improvements.
+
+---
+
+### 🇦🇺 Australia – Emerging ESG Impact Scenario
+![Forecast Australia 2027](visuals/Forecast%20Scenario%20for%20Australia%20(2027).png)  
+Although outside the EU, Australia’s inclusion demonstrates how developing ESG structures can reshape financial outcomes. The upward trend reflects the potential of transitioning economies under sustainability-driven reforms.
+
+---
+
 ## 💡 Insights in Plain Language
 - Countries that invested more in **sustainability and green innovation** saw **faster stock market recovery** after economic shocks.  
 - **Good governance and workforce participation** strengthen investor trust.  
@@ -112,7 +134,9 @@ Forecasting-ESG-Impacts-on-Stock-Market-Capitalization-in-EU-Economies-1990-2022
 │   ├── Market Capitalization.png
 │   ├── Actual vs Predicted Market Capitalization.png
 │   ├── Random Forest Variable Importance.png
-│   └── Renewable Energy Consumption.png
+│   ├── Forecast Scenario for Germany (2027).png
+│   ├── Forecast Scenario for France (2027).png
+│   └── Forecast Scenario for Australia (2027).png
 └── README.md
 ````
 
@@ -120,7 +144,7 @@ Forecasting-ESG-Impacts-on-Stock-Market-Capitalization-in-EU-Economies-1990-2022
 
 ## 🧾 Citation
 
-> Solomon Okpuno. (2025). *Forecasting ESG Impacts on Stock Market Capitalization in EU Economies (1990–2022): A Panel-Data and Machine Learning Analysis.*
+> **Solomon Okpuno (2025).** *Forecasting ESG Impacts on Stock Market Capitalization in EU Economies (1990–2022): A Panel-Data and Machine Learning Analysis.*
 
 ---
 
@@ -134,4 +158,7 @@ Forecasting-ESG-Impacts-on-Stock-Market-Capitalization-in-EU-Economies-1990-2022
 
 ⭐ *If you found this project insightful, please star the repository to support open data research in sustainable finance.*
 
----
+--- 
+
+Would you like me to add a **short repository tagline + optimized tags (keywords)** to boost visibility and discoverability on GitHub and LinkedIn next?
+```
